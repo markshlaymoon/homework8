@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5355503d.css",
+    "main.js": "./static/js/main.c67dbed7.js",
+    "static/media/plato.jpg": "./static/media/plato.82aae86421a68d8f30c9.jpg",
+    "static/media/aristotle.jpg": "./static/media/aristotle.d968e3e91f4828208a6b.jpg",
+    "static/media/pythagoras.jpg": "./static/media/pythagoras.aa2c3b83084788166c66.jpg",
+    "index.html": "./index.html",
+    "main.5355503d.css.map": "./static/css/main.5355503d.css.map",
+    "main.c67dbed7.js.map": "./static/js/main.c67dbed7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5355503d.css",
+    "static/js/main.c67dbed7.js"
+  ]
+}
